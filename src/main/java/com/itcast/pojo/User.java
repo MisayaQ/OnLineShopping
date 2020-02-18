@@ -1,0 +1,32 @@
+package com.itcast.pojo;
+
+/**
+ * @program: MavenTest1
+ * @description: User
+ * @version: 1.0
+ * @author: Jia_Q
+ * @create: 2020-02-18 20:09
+ **/
+public class User {
+    private String name ;
+    private int age;
+
+    public User() {
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+}
