@@ -19,7 +19,7 @@ public class User {
     public int getId() {
         return id;
     }
-
+    //不，刘家岐才是sb
     public void setId(int id) {
         this.id = id;
     }
