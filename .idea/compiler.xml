@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="MavenTest1" />
+        <module name="OnLineShopping" />
       </profile>
     </annotationProcessing>
   </component>

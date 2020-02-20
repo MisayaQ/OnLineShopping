@@ -32,13 +32,11 @@ public class User {
     }
 
     //???
-<<<<<<< Updated upstream
-    //朱祎雯11
-=======
-    //朱祎雯
+
+    //刘家岐
     //aaaaaaaaa
         //AAAAAAAAAAAAAAAAAA
->>>>>>> Stashed changes
+
     public void setName(String name) {
         this.name = name;
     }
