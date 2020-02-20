@@ -8,7 +8,8 @@ package com.itcast.pojo;
  * @create: 2020-02-18 20:09
  **/
 public class User {
-    private String name ;
+
+    private String name;
     private int age;
     private int id;
 
@@ -19,15 +20,19 @@ public class User {
     public int getId() {
         return id;
     }
+
     //不，刘家岐才是sb
     public void setId(int id) {
         this.id = id;
     }
+
     //我觉得楼上都是sb 嗯
     public String getName() {
         return name;
     }
-//???
+
+    //???
+    //朱祎雯
     public void setName(String name) {
         this.name = name;
     }
