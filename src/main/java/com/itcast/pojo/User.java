@@ -37,6 +37,7 @@ public class User {
 =======
     //朱祎雯
     //aaaaaaaaa
+        //AAAAAAAAAAAAAAAAAA
 >>>>>>> Stashed changes
     public void setName(String name) {
         this.name = name;
